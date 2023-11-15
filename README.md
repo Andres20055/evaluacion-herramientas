@@ -15,3 +15,19 @@ En la segunda función es basicamente lo mismo que la primera función solo que 
 ## Tercera función
 
 Aquí unicamente se realizó el menu donde el usuario podrá interactuar para digitar ya sea solo un caracter o una palabra, lo unico nuevo que se utilizo fueron los if y elif para restringir los digitos que no se pueden usar por ejemplo si el usuario digita *1* entonces solo podra digitar un caracter para que el programa se lo de en binario el *2* es para que el  programa revise la palabra en binario y el *0* para salirse del programa
+
+# Explicación repositorio
+
+
+### Creación del repositorio
+
+Primeramente se creo el repositorio en donde se tuvo que crearlo de manera publica y a parte agregar el archivo **gitignore** los archivos que no acepta este archivo son los que contengan algún archivo del lenguaje *C++*; tambien se logro agregar el archivo README.md
+
+### Agregar el codigo de python
+
+Posteriormente se crea una nueva rama para agregar el archivo de python para despues hacer el pull request de la rama principal **main**
+
+### Explicacion de pasos
+
+Por ultimo se explican los pasos del desarrollo de codigo de **python** y del desarrollo del repositorio utilizando en ambas explicaciones formato de lenguaje Markdown
+
